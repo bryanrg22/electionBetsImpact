@@ -13,13 +13,14 @@ This repository documents a research project exploring whether legalized betting
 - Python 3.11+
 - [Playwright](https://playwright.dev/) for automated browsing
 - Pandas and NumPy for data processing
+- The [`x-24-us-election`](https://github.com/sinking8/x-24-us-election) x-24-us-election Dataset utility: https://github.com/sinking8/x-24-us-election
 - The [`XScraper`](https://github.com/sinking8/XScraper) Twitter scraping utility: https://github.com/sinking8/XScraper
 - Access to the Kalshi API for historical betting markets
 
 ## Setup Overview
 
-1. Clone the `XScraper` repository and install its dependencies (`pip install -r requirements.txt` and `playwright install`).
-2. Clone the 
+1. Clone the `x-24-us-election` repository and install its dependencies (`pip install -r requirements.txt`).
+2. Clone the `XScraper` repository and install its dependencies (`pip install -r requirements.txt` and `playwright install`).
 3. Prepare one or more Twitter accounts and save their session cookies as described in the XScraper documentation.
 4. Configure a parameter file listing keywords and date ranges to target. Adjust these as your research focus evolves.
 5. Run `python app.py --parameters your_parameters.json --output parsed_tweets/output.json` to collect tweets.
@@ -31,8 +32,8 @@ This repository documents a research project exploring whether legalized betting
 
 Below is a suggested timeline from May 26 through August 2nd (excluding weekends, June 2-6, and July 15‑16).
 
-- **Week 0** – Finalize research questions, set up XScraper, API Keys, and Twitter/X 2024 Election Dataset.
-- **Week 1** – Create keyword lists, and begin colelcting data first from Twitter/X 2024 Election Dataset.
+- **Week 0** – Finalize research questions, set up XScraper, API Keys, and Twitter/X 2024 US Election Dataset.
+- **Week 1** – Create keyword lists, and begin colelcting data first from Twitter/X 2024 US Election Dataset.
 - **Week 2** – Expand keyword lists and run full-scale scraping for the initial time window. Start fetching Kalshi market data.
 - **Week 3** – Clean and preprocess Twitter/X. Exclude July 15‑16 from scraping jobs.
 - **Week 4** – Perform exploratory analysis on engagement metrics and correlate with betting trends.
@@ -43,7 +44,7 @@ Below is a suggested timeline from May 26 through August 2nd (excluding weekends
 ## Data Collected
 
 - Tweets containing election and betting keywords within defined date windows from:
-    1. Filtering through Twitter/X 2024 Election Dataset
+    1. Filtering through Twitter/X 2024 US Election Dataset
     2. Using XScraper
 - Kalshi market prices and volumes over the same period
 
