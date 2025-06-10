@@ -1,6 +1,15 @@
 # Election Betting Influence Research
 
-This repository documents a research project exploring whether legalized betting on the U.S. presidential election affected online discourse. The project analyzes Twitter/X and TikTok posts alongside historical betting data from the Kalshi API.
+<img src="https://github.com/user-attachments/assets/20a89972-af31-4212-b270-1fdf06be0c7e" alt="Image 1" width="480" />
+<img src="https://github.com/user-attachments/assets/14eb92fc-8fa1-4e93-a55a-be75b955b768" alt="Image 1" width="170" />
+<img src="https://github.com/user-attachments/assets/11092de4-fd8a-4664-bc02-cc3e102acf4e" alt="Image 1" width="170" />
+
+<br>
+
+## This repository documents a research project exploring whether legalized betting on the U.S. presidential election affected online discourse. The project analyzes Twitter/X and TikTok posts alongside historical betting data from the Kalshi API.
+
+<img src="https://github.com/user-attachments/assets/2cac393b-aa70-40f0-ac95-382b1f95d421" alt="Image 1" width="170" />
+<img src="https://github.com/user-attachments/assets/c1b88803-2ead-465a-a717-5b35e6a59301" alt="Image 2" width="150" />
 
 ## Project Goals
 
