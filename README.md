@@ -1,4 +1,4 @@
-# Election Betting Influence Research
+# Betting on Democracy: Investigating How Kalshi’s 2024 Presidential Prediction Market Shaped Online Discourse and May Have Influenced Voter Behavior
 
 <img src="https://github.com/user-attachments/assets/20a89972-af31-4212-b270-1fdf06be0c7e" alt="Image 1" width="480" />
 <img src="https://github.com/user-attachments/assets/14eb92fc-8fa1-4e93-a55a-be75b955b768" alt="Image 1" width="170" />
@@ -10,6 +10,33 @@
 
 <img src="https://github.com/user-attachments/assets/2cac393b-aa70-40f0-ac95-382b1f95d421" alt="Image 1" width="170" />
 <img src="https://github.com/user-attachments/assets/c1b88803-2ead-465a-a717-5b35e6a59301" alt="Image 2" width="150" />
+
+## Project Overview
+
+The 2024 U.S. presidential race marked the first modern cycle in which retail investors could
+legally wager on the outcome through Kalshi’s “Yes‑No” political futures contracts. While
+proponents frame the market as an information‑aggregation tool, critics argue that real‑money
+stakes may distort civic intent, incentivizing individuals to vote, or persuade others to vote,
+solely to maximize financial gain. This project investigates whether participation in Kalshi’s
+presidential markets measurably influenced online discourse and, by extension, voter behavior.
+Using large‑scale social‑media datasets from X/Twitter and TikTok, combined with Kalshi’s
+historical order‑book API, we will (1) quantify gambling‑related election engagement, (2) model
+temporal correlations between market movements and partisan messaging, and (3) evaluate the
+possibility of coordinated amplification by campaign‑adjacent actors, including Donald Trump Jr.
+Findings will contribute to the literature on election integrity and inform regulatory debates
+surrounding prediction markets.
+
+## Project Abstract
+
+The 2024 U.S. presidential election was the first in modern history to allow everyday Americans to wager legally on the outcome via Kalshi’s “Yes‑No” political futures contracts. While advocates claim such markets merely aggregate information, critics warn that real‑money stakes could warp the civic motivations behind voting and influence public opinion. This study examines whether—and how—participation in Kalshi’s presidential market altered online engagement and, by extension, voter behavior. Leveraging large‑scale datasets from X/Twitter and TikTok (2019‑2024) alongside Kalshi’s historical order‑book API, we will:
+
+1. Quantify the volume and sentiment of gambling‑related election discourse over time.
+
+2. Model temporal links between Kalshi price swings and surges in partisan messaging.
+
+3. Detect signs of strategic amplification by campaign‑adjacent figures, including Donald Trump Jr., who served as a Kalshi adviser.
+
+Using causal‑inference techniques (Granger causality, difference‑in‑differences) and bot‑detection heuristics, we aim to determine whether financial incentives measurably nudged political persuasion online. Findings will inform the broader debate on prediction‑market regulation and provide actionable insights for policymakers tasked with safeguarding electoral integrity.
 
 ## Project Goals
 
