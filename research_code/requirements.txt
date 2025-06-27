@@ -1,0 +1,11 @@
+# Core data stack
+pandas>=2.1,<3.0        # needs the >=2.1 dtype_backend option
+pyarrow>=14,<16         # Parquet + Arrow dtypes + zstd built-in
+
+# Progress bar
+tqdm>=4.66,<5.0
+
+# (Optional but handy) better zstd compression on some systems
+zstandard>=0.22,<0.23
+
+duckdb
