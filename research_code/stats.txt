@@ -1,0 +1,7 @@
+GRAND TOTAL TWEETS: 2,845,004
+Non-RT unique tweets: 2,797,443
+KALSHI keyword tweets: 927
+BET_VERBS keyword tweets: 1,118,424
+PRICE_TERMS keyword tweets: 654,319
+POSITION_TERMS keyword tweets: 845,745
+MARKET_TERMS keyword tweets: 161,613
