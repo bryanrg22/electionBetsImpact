@@ -68,14 +68,18 @@ Using causal‑inference techniques (Granger causality, difference‑in‑differ
 
 Below is a suggested timeline from May 26 through August 2nd (excluding weekends, June 2-6, and July 15‑16).
 
-- **Week 0** – Finalize research questions, set up XScraper, API Keys, and Twitter/X 2024 US Election Dataset.
-- **Week 1** – Create keyword lists, and begin colelcting data first from Twitter/X 2024 US Election Dataset.
-- **Week 2** – Expand keyword lists and run full-scale scraping for the initial time window. Start fetching Kalshi market data.
-- **Week 3** – Clean and preprocess Twitter/X. Exclude July 15‑16 from scraping jobs.
-- **Week 4** – Perform exploratory analysis on engagement metrics and correlate with betting trends.
-- **Week 5** – Refine analyses, produce visualizations, and begin drafting preliminary findings.
-- **Week 6** – Complete all scraping runs and finalize data cleaning steps.
-- **Week 7** – Summarize results and prepare any presentations or reports due at the end of the project.
+Tasks Completed/In Progress:
+- **Task 1** – Finalize research questions, set up XScraper, API Keys, and Twitter/X 2024 US Election Dataset.
+- **Task 2** – Create keyword lists, and begin colelcting data first from Twitter/X 2024 US Election Dataset.
+- **Task 3** – Expand keyword lists and run full-scale scraping for the initial time window. Start fetching Kalshi market data.
+- **Task 4** – Clean and preprocess Twitter/X.
+- **Task 5** – Perform exploratory analysis on engagement metrics and correlate with betting trends.
+
+Future Tasks:
+- **Task 1** – Refine analyses, produce visualizations, and begin drafting preliminary findings.
+- **Task 2** – Expand project to include other social media platforms such as TikTok, Instagram, Truth Social, etc.
+- **Task 3** – Complete all scraping runs and finalize data cleaning steps.
+- **Task 3** – Summarize results and prepare any presentations or reports due at the end of the project.
 
 ## Data Collected
 
